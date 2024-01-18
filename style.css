@@ -1,0 +1,128 @@
+body {
+    background-color:white);
+}
+
+h1 {
+    color: blue;
+    font-family: sans-serif;
+    margin-left: 350px;
+    margin-top: 195px;
+
+
+}
+
+p {
+    font-family: sans-serif;
+    margin-left: 350px;
+    margin-top: 33x;
+
+}
+
+.hello {
+    font-family: sans-serif;
+    margin-left: 770px;
+    margin-top: 130px;
+    font-size: 10px;
+
+
+
+}
+
+div {
+
+    width: 280px;
+    height: 250px;
+    position: absolute;
+    right: 340px;
+    top: 150px;
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px 1px gray;
+
+    input {
+        width: 250px;
+        height: 30px;
+        margin-left: 12px;
+        margin-top: 10px;
+        border: 1px solid blue;
+        border-radius: 5px;
+
+
+    }
+
+    .password {
+        width: 250px;
+        height: 30px;
+        margin-left: 12px;
+        margin-top: 10px;
+        border: 1px solid #dcdcdc;
+        border-radius: 5px;
+
+    }
+
+
+
+
+
+
+
+
+
+    ::placeholder {
+        color: gray;
+
+    }
+
+    .log {
+        width: 255px;
+        height: 32px;
+        margin-left: 12px;
+        margin-top: 10px;
+        background-color: blue;
+        color: white;
+        border-radius: 5px;
+
+
+    }
+
+    a {
+        text-decoration: none;
+        color: blue;
+        margin-left: 73px;
+        position: relative;
+        top: 13px;
+
+
+
+
+    }
+
+    .new {
+        width: 130px;
+        height: 32px;
+        margin-left: 73px;
+        margin-top: 40px;
+        background-color: rgb(39, 194, 39);
+        color: white;
+        border-radius: 5px;
+        border: 1px solid rgb(39, 194, 39);
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
